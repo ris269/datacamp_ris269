@@ -1,0 +1,22 @@
+...
+#OUTLINE
+001. DataFrames
+	- Sorting and subsetting
+	- Creating new columns
+002. Aggregating Data
+	- Summary statistics
+	- Counting
+	- Grouped summary statistics
+003. Slicing and Indexing Data
+	- Subsetting using slicing
+	- Indexes and subsetting using indexes
+004. Creating and Visualizing Data
+	- Plotting
+	- Handling missing data
+	- Reading data into a DataFrame
+...
+...
+#001. DataFrame
+- Rectangular data is represented as a DataFrame object
+- R has DataFrames while SQL has database table
+- 
